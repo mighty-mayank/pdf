@@ -67,6 +67,9 @@
     --message-bar-close-button-color-hover:HighlightText;
 }
   }
+#printButton, #downloadButton, #editorStampButton, #editorInkButton, #editorFreeTextButton, #editorHighlightButton {
+  display: none !important;
+}
 
 .messageBar{
 
